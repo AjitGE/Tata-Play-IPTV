@@ -2,6 +2,10 @@
 
 ![Logo](https://static.wikia.nocookie.net/logopedia/images/8/87/Tata_Play_Logo_Animation.gif/revision/latest/scale-to-width-down/250?cb=20220127034622)
 
+## Deploy on vercel and access from anywhere (Easy)
+1) Click the button below to deploy.<br>
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/AjitGE/Tata-Play-IPTV.git"><img src="https://vercel.com/button" alt="Deploy"/></a><br>
+
 ## How to use in localhost Android/Andorid TV
 - 1st download and install KSWEB apk and open it.
 - Download this repo 
